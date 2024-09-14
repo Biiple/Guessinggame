@@ -1,4 +1,4 @@
-
+                                        
 public class Ramdom {
 
     public String nextInt(int i) {
